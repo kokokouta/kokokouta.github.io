@@ -1,0 +1,39 @@
+header {
+  background-color:gainsboro;
+}
+.header-left {
+  display:flex
+  
+}
+.header-left h1 {
+  padding-left:20px;
+}
+
+.circlepicture {
+  
+  width:100%;
+}
+.header-right {
+  float:right;
+}
+.top-wrapper {
+  
+}
+.fa-twitter {
+  background-color:	#00BFFF;
+  color:white;
+  width:30%;
+}
+.fa-instagram {
+  background-color:	#DCDCDC;
+  padding-left:30px;
+  color:white;
+  width:30%;
+}
+.sns-icon {
+  text-align:center;
+}
+.event p {
+  line-height: 40px;
+  border-bottom:1px solid black;
+}
